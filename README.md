@@ -26,3 +26,13 @@
 Рис.7 - Вкладка помилок
 ![2.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/2.4.png)
 Рис.8 - Перевiрки правильностi роботи коду
+
+3. Оголосивши об'єднаний тип Status, с трьома можливими значеннями 'success', 'error' та 'loading', я зробив функцiю, яка виводить повiдомлення вiдповiдно до значення Status.
+![3.1](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/3.1.png)
+Рис.9 - Скомпiльований JavaScript-код
+![3.2](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/3.2.png)
+Рис.10 - Перегляд созданих типiв
+![3.3](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/3.3.png)
+Рис.11 - Вкладка помилок
+![3.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/3.4.png)
+Рис.12 - Перевiрки правильностi роботи коду
