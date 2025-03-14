@@ -48,3 +48,15 @@
 ![4.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/4.4.png)
 Рис.16 - Перевiрки правильностi роботи коду
 
+5. Реалiзувавши клас Car, який мiстить поля model та year, я додав метод getCarInfo(), який повертає рядок виду: "Model: Toyota, Year: 2020".
+![5.1](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/5.1.png)
+Рис.17 - Скомпiльований JavaScript-код
+![5.2](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/5.2.png)
+Рис.18 - Перегляд созданих типiв
+![5.3](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/5.3.png)
+Рис.19 - Вкладка помилок
+![5.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/5.4.png)
+Рис.20 - Перевiрки правильностi роботи коду
+
+Висновки
+Виконавши цю лабораторну роботу, я опанував основи мови TypeScript через практичні завдання, що дозволило мені вивчити типізацію, інтерфейси, класи, композитні типи та дженерики.
