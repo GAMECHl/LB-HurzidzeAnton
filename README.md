@@ -36,3 +36,14 @@
 Рис.11 - Вкладка помилок
 ![3.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/3.4.png)
 Рис.12 - Перевiрки правильностi роботи коду
+
+4. Розробивши функцiю identity<T>(value: T): T, яка повертає передане їй значення, я використував її для типів number, string та boolean.
+![4.1](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/4.1.png)
+Рис.13 - Скомпiльований JavaScript-код
+![4.2](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/4.2.png)
+Рис.14 - Перегляд созданих типiв
+![4.3](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/4.3.png)
+Рис.15 - Вкладка помилок
+![4.4](https://github.com/GAMECHl/LB-HurzidzeAnton/blob/main/4.4.png)
+Рис.16 - Перевiрки правильностi роботи коду
+
